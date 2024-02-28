@@ -18,11 +18,11 @@ UXC(User eXperience Computing) is a data-drivn Human-Computer Interaction and Us
 
 Update coming soon
 
-#### Career
+### Career
 
 - Kyunghee univ (2024/03 ~ )
   - Software Convergence (Master’s course)
 
-#### Interests
+### Interests
 
 Update coming soon
