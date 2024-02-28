@@ -8,28 +8,21 @@ As a student studying a master's degree in software convergence at Kyung Hee Uni
 
 > Please look forward to my future portfolio!
 
-### Getting Started
+### User eXperience Computing
 
-Getting a message sent is quick and easy with ChatApp:
+UXC(User eXperience Computing) is a data-drivn Human-Computer Interaction and User eXperience (Data-driven HCI/UX) research group focusing on user behavioral pattern analysis in the Department of Software Convergence at Kyung Hee University, led by Sangkeun Park.
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+> [User eXperience Computing](https://skpark-khu.github.io/)
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+### Portfolio
 
-### Features
+Update coming soon
 
-Explore more of ChatApp by reading about our features:
+#### Career
 
-#### Media
+- Kyunghee univ (2024/03 ~ )
+  - Software Convergence (Master’s course)
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+#### Interests
 
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+Update coming soon
