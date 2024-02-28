@@ -2,14 +2,11 @@
 title: Welcome
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+As a student studying a master's degree in software convergence at Kyung Hee University, I will show you more and more improvements in the future.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+
+> Please look forward to my future portfolio!
 
 ### Getting Started
 
