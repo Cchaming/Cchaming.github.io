@@ -4,7 +4,7 @@ title: Welcome
 
 As a student studying a master's degree in software convergence at Kyung Hee University, I will show you more and more improvements in the future.
 
-
+![CHA MIN JEONG](CMJ_IDphoto.jpg)
 
 > Please look forward to my future portfolio!
 
